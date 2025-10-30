@@ -1,5 +1,3 @@
-# JSON Tree Visualizer - Horizontal Layout
-
 ## Run locally
 1. unzip folder
 2. open terminal in the project directory
